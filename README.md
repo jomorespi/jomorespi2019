@@ -2,3 +2,5 @@
 
 Interactive professional profile. 
 MacOS interface reproduction using HTML5, SCSS and JS.
+
+-> [Link to the project](https://jomorespi.github.io/jomorespi2019/)
